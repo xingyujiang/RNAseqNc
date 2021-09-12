@@ -1,0 +1,782 @@
+COVID19_Manne:
+  Assay Type: RNA-Seq
+  AvgSpotLen: 302
+  BioProject: PRJNA634489
+  Instrument: Illumina NovaSeq 6000
+  SRA Study: SRP262885
+  analyses: null
+  analysis_tools: null
+  cdna_amplification: null
+  download: false
+  metadata_list:
+    SRR11830082:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '49'
+      cell_type: Platelet
+      disease_stage: Non-ICU
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR118/082/SRR11830082/SRR11830082_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR118/082/SRR11830082/SRR11830082_2.fastq.gz
+      fastq_md5: 7db75c3caabfa0b54e6f7b340ec31e49;eceff917d9c32cb6449b312bf148b97a
+      group: COVID-19
+      sex: female
+    SRR12113306:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '71'
+      cell_type: Platelet
+      disease_stage: ICU
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/006/SRR12113306/SRR12113306_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/006/SRR12113306/SRR12113306_2.fastq.gz
+      fastq_md5: aa979ff8db048cb419bc2d12ac441b55;b6a8556515e6b12c5af9585d0cd1d04c
+      group: COVID-19
+      sex: male
+    SRR12113307:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '77'
+      cell_type: Platelet
+      disease_stage: ICU
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/007/SRR12113307/SRR12113307_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/007/SRR12113307/SRR12113307_2.fastq.gz
+      fastq_md5: 8251256b5021d326cbce29fa6ee49677;4796e25e7d9ce82d229f018503c415dd
+      group: COVID-19
+      sex: male
+    SRR12113308:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '24'
+      cell_type: Platelet
+      disease_stage: ICU
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/008/SRR12113308/SRR12113308_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/008/SRR12113308/SRR12113308_2.fastq.gz
+      fastq_md5: dbbe18dfa81dfac7b3eeaaaa36c777a8;3fb545a476b8b352ef15dce0548c42ae
+      group: COVID-19
+      sex: female
+    SRR12113309:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '75'
+      cell_type: Platelet
+      disease_stage: ICU
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/009/SRR12113309/SRR12113309_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/009/SRR12113309/SRR12113309_2.fastq.gz
+      fastq_md5: 77ee8b4a4f8a7930d2d2374309f72f46;d1b7c39ec15ca802d59bd3e4ed9c955f
+      group: COVID-19
+      sex: male
+    SRR12113310:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '43'
+      cell_type: Platelet
+      disease_stage: Non-ICU
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/010/SRR12113310/SRR12113310_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/010/SRR12113310/SRR12113310_2.fastq.gz
+      fastq_md5: 53f8b4d005fd880e3a30efd3c8c5114f;67676eb78b4ef035c28ecd5a0b960bba
+      group: COVID-19
+      sex: male
+    SRR12113311:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '34'
+      cell_type: Platelet
+      disease_stage: Non-ICU
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/011/SRR12113311/SRR12113311_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/011/SRR12113311/SRR12113311_2.fastq.gz
+      fastq_md5: 355666f63b9280a7fe4f36618f46a2d3;e7be7d15ee05949c50efd21dcb6fc5e8
+      group: COVID-19
+      sex: male
+    SRR12113312:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '58'
+      cell_type: Platelet
+      disease_stage: Non-ICU
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/012/SRR12113312/SRR12113312_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/012/SRR12113312/SRR12113312_2.fastq.gz
+      fastq_md5: c6727fb3f89d4bc92540ab604adccd5f;9c706045f168af46b917b105a80c9bfe
+      group: COVID-19
+      sex: male
+    SRR12113313:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '32'
+      cell_type: Platelet
+      disease_stage: Non-ICU
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/013/SRR12113313/SRR12113313_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/013/SRR12113313/SRR12113313_2.fastq.gz
+      fastq_md5: 62e1b7abfd8a98c834fbf4ecbe9ef94e;9faf5d240d0739aa914f329485437764
+      group: COVID-19
+      sex: female
+    SRR12113314:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '35'
+      cell_type: Platelet
+      disease_stage: Healthy
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/014/SRR12113314/SRR12113314_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/014/SRR12113314/SRR12113314_2.fastq.gz
+      fastq_md5: 7ebe9e7a4f9ae6659ac809035e5943fd;9a0b1757cbdb758c5c8de5f363873660
+      group: Healthy
+      sex: male
+    SRR12113315:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '46'
+      cell_type: Platelet
+      disease_stage: Healthy
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/015/SRR12113315/SRR12113315_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/015/SRR12113315/SRR12113315_2.fastq.gz
+      fastq_md5: e6e5a9fafaba3e41cd5411dd12f40b10;1e191ae56a8f2c339ec0ce4f9ff1c04b
+      group: Healthy
+      sex: male
+    SRR12113316:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '49'
+      cell_type: Platelet
+      disease_stage: Healthy
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/016/SRR12113316/SRR12113316_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/016/SRR12113316/SRR12113316_2.fastq.gz
+      fastq_md5: 037e360fdba6a651c574c6eecfa6e88a;cd537f44ff902acff15437f99b2022fd
+      group: Healthy
+      sex: female
+    SRR12113317:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '49'
+      cell_type: Platelet
+      disease_stage: Healthy
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/017/SRR12113317/SRR12113317_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/017/SRR12113317/SRR12113317_2.fastq.gz
+      fastq_md5: 7e56253640dba23344b950700abbfd9f;baa704cc9cba61342ca55dea23e231cb
+      group: Healthy
+      sex: male
+    SRR12113318:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '40'
+      cell_type: Platelet
+      disease_stage: Healthy
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/018/SRR12113318/SRR12113318_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/018/SRR12113318/SRR12113318_2.fastq.gz
+      fastq_md5: 5a1c0ada81f0f7c304c7c564d31cdb76;46c9172d587d9fd34847302cef19b75d
+      group: Healthy
+      sex: female
+    SRR12113319:
+      LibraryLayout: PAIRED
+      Organism: Homo sapiens
+      age: '48'
+      cell_type: Platelet
+      disease_stage: Non-ICU
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/019/SRR12113319/SRR12113319_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR121/019/SRR12113319/SRR12113319_2.fastq.gz
+      fastq_md5: 4dc4fa82c9f2b7a11e002fdb7cd372c0;629e76265e640c7a86099909e0619aef
+      group: COVID-19
+      sex: male
+  paper_doi: 10.1182/blood.2020007214
+  paper_title: Platelet gene expression and function in patients with COVID-19
+  proceed: false
+  reverse_transcriptase: null
+  rna_extraction: null
+  rna_extraction_text: null
+  sample_size:
+    Healthy: 5
+    ICU: 4
+    Non-ICU: 6
+  years: null
+DENV_Campbell:
+  Assay Type: RNA-Seq
+  AvgSpotLen: UNCONFIRMED
+  BioProject: PRJNA517714
+  Instrument: Illumina HiSeq 2000
+  SRA Study: SRP182839
+  analyses: null
+  analysis_tools: null
+  cdna_amplification: null
+  download: false
+  metadata_list:
+    SRR8503218:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: missing
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR850/008/SRR8503218/SRR8503218.fastq.gz
+      fastq_md5: 61df94ecaef5aaadccece993a314906b
+      group: Healthy
+      sex: missing
+    SRR8503219:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: missing
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR850/009/SRR8503219/SRR8503219.fastq.gz
+      fastq_md5: 3553b8e09e7083bf9ef93d303228a486
+      group: Healthy
+      sex: missing
+    SRR8503220:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: missing
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR850/000/SRR8503220/SRR8503220.fastq.gz
+      fastq_md5: 91247293f34852c0d468215e86980a17
+      group: Dengue
+      sex: missing
+    SRR8503221:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: missing
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR850/001/SRR8503221/SRR8503221.fastq.gz
+      fastq_md5: 9e3fd6bda6b8203068231bf2c5104ed6
+      group: Healthy
+      sex: missing
+    SRR8503228:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: missing
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR850/008/SRR8503228/SRR8503228.fastq.gz
+      fastq_md5: 00aadbcfef8d83ac2d7040d5a5a34e37
+      group: Dengue
+      sex: missing
+    SRR8503229:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: missing
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR850/009/SRR8503229/SRR8503229.fastq.gz
+      fastq_md5: dd3b4eec8723a12e76c15967d6b9551d
+      group: Dengue
+      sex: missing
+  paper_doi: 10.1182/blood.2020007214
+  paper_title: Platelet gene expression and function in patients with COVID-19
+  proceed: false
+  reverse_transcriptase: null
+  rna_extraction: null
+  rna_extraction_text: null
+  sample_size:
+    Dengue: 3
+    Healthy: 3
+  years: null
+DataSets:
+- Sepsis_Middleton
+- COVID19_Manne
+- HIV_Marcantoni
+- DENV_Campbell
+- Influenza_Campbell
+HIV_Marcantoni:
+  Assay Type: RNA-Seq
+  AvgSpotLen: 51
+  BioProject: PRJNA389458
+  Instrument: Illumina HiSeq 2500
+  SRA Study: SRP108739
+  analyses: null
+  analysis_tools: null
+  cdna_amplification: null
+  download: false
+  metadata_list:
+    SRR5654952:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/002/SRR5654952/SRR5654952.fastq.gz
+      fastq_md5: 4195266d83b64b72dd38e94c4bd5acd9
+      group: healthy
+    SRR5654953:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/003/SRR5654953/SRR5654953.fastq.gz
+      fastq_md5: a2dbe2f5bd32119c2bbc93107b3c4a43
+      group: healthy
+    SRR5654954:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/004/SRR5654954/SRR5654954.fastq.gz
+      fastq_md5: b693e08d9a7cbc29482431c7799ea4ac
+      group: HIV
+    SRR5654955:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/005/SRR5654955/SRR5654955.fastq.gz
+      fastq_md5: e2960a9a490fb47673aa1b1fb8caf7e7
+      group: HIV
+    SRR5654956:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/006/SRR5654956/SRR5654956.fastq.gz
+      fastq_md5: 1270614a9c93ee01f8eda2b1a6ada129
+      group: HIV
+    SRR5654957:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/007/SRR5654957/SRR5654957.fastq.gz
+      fastq_md5: 5a1998a20b1a03a220d0075fd23cea31
+      group: HIV
+    SRR5654958:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/008/SRR5654958/SRR5654958.fastq.gz
+      fastq_md5: bc04a092a2a784b1211bf6acf96f0865
+      group: healthy
+    SRR5654959:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/009/SRR5654959/SRR5654959.fastq.gz
+      fastq_md5: 613ea2def539b30aaa1603ff00981c17
+      group: healthy
+    SRR5654960:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/000/SRR5654960/SRR5654960.fastq.gz
+      fastq_md5: 7da4e6b8e2db39dcf70ed76d293dd550
+      group: HIV
+    SRR5654961:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/001/SRR5654961/SRR5654961.fastq.gz
+      fastq_md5: c8ef4cebc58909ddf73f2908e64a7d7d
+      group: HIV
+    SRR5654962:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/002/SRR5654962/SRR5654962.fastq.gz
+      fastq_md5: 50a329271df60ee59eae015b9ee5ef73
+      group: HIV
+    SRR5654963:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/003/SRR5654963/SRR5654963.fastq.gz
+      fastq_md5: aff4db9f08f02fc79bd5e860686ebfe6
+      group: HIV
+    SRR5654964:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/004/SRR5654964/SRR5654964.fastq.gz
+      fastq_md5: 03b456bea6a03d9eab076a797eb95c4a
+      group: healthy
+    SRR5654966:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/006/SRR5654966/SRR5654966.fastq.gz
+      fastq_md5: b05272bfeeeaadceb06432f9c4249b3f
+      group: healthy
+    SRR5654968:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/008/SRR5654968/SRR5654968.fastq.gz
+      fastq_md5: 109fb1f49e273f716ca8c27738d8fda4
+      group: HIV
+    SRR5654969:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/009/SRR5654969/SRR5654969.fastq.gz
+      fastq_md5: d32345182c4307ba80717431d00f4b22
+      group: HIV
+    SRR5654970:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/000/SRR5654970/SRR5654970.fastq.gz
+      fastq_md5: 16273d882f99791e07bc902c3622e1cb
+      group: HIV
+    SRR5654971:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR565/001/SRR5654971/SRR5654971.fastq.gz
+      fastq_md5: 222baf9aff726051f41b8ca02ce33f76
+      group: HIV
+  paper_doi: null
+  paper_title: null
+  proceed: false
+  reverse_transcriptase: null
+  rna_extraction: null
+  rna_extraction_text: null
+  sample_size:
+    HIV: 12
+    healthy: 6
+  years: null
+Influenza_Campbell:
+  Assay Type: RNA-Seq
+  AvgSpotLen: 50
+  BioProject: PRJNA397446
+  Instrument: Illumina HiSeq 2000
+  SRA Study: SRP114983
+  analyses: null
+  analysis_tools: null
+  cdna_amplification: null
+  download: false
+  metadata_list:
+    SRR5907424:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '39'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR590/004/SRR5907424/SRR5907424.fastq.gz
+      fastq_md5: 06762e83156fc3544d80253ef7ed253f
+      group: Healthy
+      sex: male
+    SRR5907425:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '69'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR590/005/SRR5907425/SRR5907425.fastq.gz
+      fastq_md5: afc229f2fa5879d75832b36a874e7092
+      group: Healthy
+      sex: female
+    SRR5907428:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '69'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR590/008/SRR5907428/SRR5907428.fastq.gz
+      fastq_md5: 0def1d16aef84df1213383bf29891db5
+      group: Healthy
+      sex: male
+    SRR8503227:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: missing
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR850/007/SRR8503227/SRR8503227.fastq.gz
+      fastq_md5: a424e2de64e23ffe8d707569a19203fc
+      group: H1N1
+      sex: missing
+    SRR8503230:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: missing
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR850/000/SRR8503230/SRR8503230.fastq.gz
+      fastq_md5: 04c618a05cb92e66f6222fc90041f2b9
+      group: H1N1
+      sex: missing
+    SRR8503231:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: missing
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR850/001/SRR8503231/SRR8503231.fastq.gz
+      fastq_md5: d8fce6b4527922cb4be10dccc52dafc9
+      group: H1N1
+      sex: missing
+  paper_doi: null
+  paper_title: null
+  proceed: false
+  reverse_transcriptase: null
+  rna_extraction: null
+  rna_extraction_text: null
+  sample_size:
+    H1N1: 3
+    Healthy: 3
+  years: null
+SOURCE:
+  adapter:
+  - NexteraPE-PE.fa
+  - TruSeq2-PE.fa
+  - TruSeq2-SE.fa
+  - TruSeq3-PE.fa
+  - TruSeq3-SE.fa
+  - TruSeq2-PE.fa
+  annotation:
+  - Ensembl: Homo_sapiens.GRCh38.104.gtf
+  - Gencode: gencode.v38.annotation.gtf
+  hisat_index:
+  - grch38
+  - hg19
+  - hg38
+  reference:
+  - Ensembl:
+    - ref_cDNA:
+      - Homo_sapiens.GRCh37.cdna.all.fa
+      - Homo_sapiens.GRCh38.cdna.all.fa
+    - ref_DNA: Homo_sapiens.GRCh38.dna.primary_assembly.fa
+  - NCBI: GRCh38.fa
+  - ussc:
+    - hg19.fa
+    - hg38.fa
+Sepsis_Middleton:
+  Assay Type: RNA-Seq
+  AvgSpotLen: 50
+  BioProject: PRJNA521077
+  Instrument: Illumina HiSeq 2000
+  SRA Study: SRP183819
+  analyses: null
+  analysis_tools: null
+  cdna_amplification: null
+  download: false
+  metadata_list:
+    SRR8535409:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '45'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/009/SRR8535409/SRR8535409.fastq.gz
+      fastq_md5: 6867cc585d269c4a72d7b76c81485bc6
+      group: Healthy
+      sex: male
+    SRR8535410:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '34'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/000/SRR8535410/SRR8535410.fastq.gz
+      fastq_md5: 49f6fd5b9db1387401af770c52b4a0a0
+      group: Healthy
+      sex: female
+    SRR8535411:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '58'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/001/SRR8535411/SRR8535411.fastq.gz
+      fastq_md5: 66a4b8efaf0180917007a1b480c641a2
+      group: Healthy
+      sex: male
+    SRR8535412:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '63'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/002/SRR8535412/SRR8535412.fastq.gz
+      fastq_md5: 7e6bed836fa3d221b8364da96490be66
+      group: Septic
+      sex: male
+    SRR8535413:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '53'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/003/SRR8535413/SRR8535413.fastq.gz
+      fastq_md5: 8783599894699d9f0a04654df4cba301
+      group: Healthy
+      sex: female
+    SRR8535414:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '45'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/004/SRR8535414/SRR8535414.fastq.gz
+      fastq_md5: 4a957ec492bbcecf545c3c797a06203d
+      group: Healthy
+      sex: male
+    SRR8535415:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '34'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/005/SRR8535415/SRR8535415.fastq.gz
+      fastq_md5: 99e5c5873c9bbf9202edc4ac8b19cf26
+      group: Healthy
+      sex: female
+    SRR8535416:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '58'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/006/SRR8535416/SRR8535416.fastq.gz
+      fastq_md5: ee587fa5cf7ec29ff5b2f7a320efd4d6
+      group: Healthy
+      sex: male
+    SRR8535417:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '53'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/007/SRR8535417/SRR8535417.fastq.gz
+      fastq_md5: 330fc620ad87c34170be8bc9647f3a53
+      group: Septic
+      sex: female
+    SRR8535418:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '34'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/008/SRR8535418/SRR8535418.fastq.gz
+      fastq_md5: b3ba070940ac7403dc3c546972463b79
+      group: Septic
+      sex: female
+    SRR8535419:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '77'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/009/SRR8535419/SRR8535419.fastq.gz
+      fastq_md5: 84f82151e0b3ed5ae5b725311ba43503
+      group: Septic
+      sex: male
+    SRR8535420:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '30'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/000/SRR8535420/SRR8535420.fastq.gz
+      fastq_md5: 4d41554918855e3af31473340f5df1fa
+      group: Septic
+      sex: male
+    SRR8535421:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '63'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/001/SRR8535421/SRR8535421.fastq.gz
+      fastq_md5: ad9f457959c1d65d6da73ef43de32c43
+      group: Septic
+      sex: male
+    SRR8535422:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '30'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/002/SRR8535422/SRR8535422.fastq.gz
+      fastq_md5: 93f1f4e7661f2096471c06d9dffb5513
+      group: Healthy
+      sex: male
+    SRR8535423:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '34'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/003/SRR8535423/SRR8535423.fastq.gz
+      fastq_md5: 0285fa64ce62755228a3c68cbc4aed43
+      group: Septic
+      sex: female
+    SRR8535424:
+      LibraryLayout: SINGLE
+      Organism: Homo sapiens
+      age: '77'
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR853/004/SRR8535424/SRR8535424.fastq.gz
+      fastq_md5: 6120df89ef90e6a46f1d72a3629ff367
+      group: Septic
+      sex: male
+    SRR8543468:
+      LibraryLayout: SINGLE
+      Organism: Mus musculus
+      age: 14 Weeks
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR854/008/SRR8543468/SRR8543468.fastq.gz
+      fastq_md5: 130e11feba4b588a32a2c15cc935e25a
+      group: Healthy
+      sex: male
+    SRR8543469:
+      LibraryLayout: SINGLE
+      Organism: Mus musculus
+      age: 14 Weeks
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR854/009/SRR8543469/SRR8543469.fastq.gz
+      fastq_md5: ceecfbfd0ef758035f1d2bef52fb1efd
+      group: Septic
+      sex: male
+    SRR8543470:
+      LibraryLayout: SINGLE
+      Organism: Mus musculus
+      age: 14 Weeks
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR854/000/SRR8543470/SRR8543470.fastq.gz
+      fastq_md5: 69b48f4a7b84f93be84f403cba3703f8
+      group: Healthy
+      sex: male
+    SRR8543471:
+      LibraryLayout: SINGLE
+      Organism: Mus musculus
+      age: 14 Weeks
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR854/001/SRR8543471/SRR8543471.fastq.gz
+      fastq_md5: aa88b878c38bda19a9e3205e16f8ee31
+      group: Healthy
+      sex: male
+    SRR8543472:
+      LibraryLayout: SINGLE
+      Organism: Mus musculus
+      age: 14 Weeks
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR854/002/SRR8543472/SRR8543472.fastq.gz
+      fastq_md5: ef054b7abbff693a2cff2b20a1e8b4f2
+      group: Healthy
+      sex: male
+    SRR8543473:
+      LibraryLayout: SINGLE
+      Organism: Mus musculus
+      age: 14 Weeks
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR854/003/SRR8543473/SRR8543473.fastq.gz
+      fastq_md5: f5a418a619645c2304d8c62feafa92fd
+      group: Septic
+      sex: male
+    SRR8543474:
+      LibraryLayout: SINGLE
+      Organism: Mus musculus
+      age: 14 Weeks
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR854/004/SRR8543474/SRR8543474.fastq.gz
+      fastq_md5: 0c15260d64abaa79aa0cceaefe3c28a9
+      group: Healthy
+      sex: male
+    SRR8543475:
+      LibraryLayout: SINGLE
+      Organism: Mus musculus
+      age: 14 Weeks
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR854/005/SRR8543475/SRR8543475.fastq.gz
+      fastq_md5: 8f49d8208112f069b9008340c5d557e9
+      group: Healthy
+      sex: male
+    SRR8543476:
+      LibraryLayout: SINGLE
+      Organism: Mus musculus
+      age: 14 Weeks
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR854/006/SRR8543476/SRR8543476.fastq.gz
+      fastq_md5: 219210ac7cacc469eb4779edcce7b8a1
+      group: Septic
+      sex: male
+    SRR8543477:
+      LibraryLayout: SINGLE
+      Organism: Mus musculus
+      age: 14 Weeks
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR854/007/SRR8543477/SRR8543477.fastq.gz
+      fastq_md5: 36f153f0068a7f6188e0eeaa786d5859
+      group: Healthy
+      sex: male
+    SRR8543478:
+      LibraryLayout: SINGLE
+      Organism: Mus musculus
+      age: 14 Weeks
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR854/008/SRR8543478/SRR8543478.fastq.gz
+      fastq_md5: 049e800e1901b83453b9381711459f4f
+      group: Septic
+      sex: male
+    SRR8543479:
+      LibraryLayout: SINGLE
+      Organism: Mus musculus
+      age: 14 Weeks
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR854/009/SRR8543479/SRR8543479.fastq.gz
+      fastq_md5: ba471ebfe460d66392503f01d6ffa801
+      group: Septic
+      sex: male
+    SRR8543480:
+      LibraryLayout: SINGLE
+      Organism: Mus musculus
+      age: 14 Weeks
+      cell_type: Platelet
+      fastq_aspera: fasp.sra.ebi.ac.uk:/vol1/fastq/SRR854/000/SRR8543480/SRR8543480.fastq.gz
+      fastq_md5: e641353f9c2cf34dfea3a09d840ee012
+      group: Septic
+      sex: male
+  paper_doi: null
+  paper_title: null
+  proceed: false
+  reverse_transcriptase: null
+  rna_extraction: null
+  rna_extraction_text: null
+  sample_size:
+    Healthy: 15
+    Septic: 14
+  years: null
