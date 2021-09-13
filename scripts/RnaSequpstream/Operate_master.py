@@ -9,13 +9,13 @@ class Operate_master():
     def __init__(self, path):
         self.path = path
         # Parse summary file
-        self.summary_file = Path(path, '1.yaml')
+        self.summary_file = Path(path, '../1.yaml')
         self.summary_obj = SummaryParser(self.summary_file)
         self.summary_fid = self.summary_obj.LoadYaml2Dict
         if self.W2Ymal() is None:
             self.summary_obj.DataSetConfig()
         else:
-            self.summary_file = Path(path, '1.yaml')
+            self.summary_file = Path(path, '../1.yaml')
             self.summary_obj = SummaryParser(self.summary_file)
             self.summary_fid = self.summary_obj.LoadYaml2Dict
             self.summary_obj.DataSetConfig()
