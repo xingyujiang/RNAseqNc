@@ -8,3 +8,6 @@
 *.pdf
 *.html
 *.json
+*.xml
+*.iml
+*.idel
