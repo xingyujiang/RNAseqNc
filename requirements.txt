@@ -1,0 +1,9 @@
+statsmodels
+scipy
+feather_format
+matplotlib
+dendropy
+seaborn
+# scikit_bio
+scikit_learn
+PyYAML
