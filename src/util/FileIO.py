@@ -3,27 +3,26 @@
 Functions to interface with the reads and metadata files.
 """
 
-import sys
-import os
+import os, sys
 import yaml
 import pandas as pd
-from util import raw2abun
+import feather
 
 # Add this repo to the path
 src_dir = os.path.normpath(os.path.join(os.getcwd(), 'src/util'))
 sys.path.insert(0, src_dir)
-
+from util import raw2abun
 
 def read_yaml(yamlfile, batch_data_dir):
     """
-    Reads in a yaml file with {dataset_id: {
-                                folder: <folder name>
-                                region: <16S Region>
-                                sequencer: <DNA sequencer>
-                                condition: <condition_dict>},
-                                disease_label: <label>,
-                                table_type: <'classic' or 'normal'>,
-                              dataset2: {...}, ...}
+    Reads in a yaml file with   {dataset_id: {
+                                             folder: <folder name>
+                                             region: <16S Region>
+                                             sequencer: <DNA sequencer>
+                                             condition: <condition_dict>},
+                                             disease_label: <label>,
+                                             table_type: <'classic' or 'normal'>,
+                                 dataset2: {...}, ...}
 
     Returns a dict with {dataset_id: {
                                 otu_table: <path to otu table file>,
@@ -49,15 +48,16 @@ def read_yaml(yamlfile, batch_data_dir):
         If not given, defaults to 'classic'
     """
     with open(yamlfile, 'r') as f:
-        datasets = yaml.load(f)
+        datasets = yamlfile.load(f)
 
     for dataset in datasets:
         # Grab the sub-dict with just that dataset's info
+        # 分别读取数据集的内容
         data = datasets[dataset]
 
         # Get counts table file, if it's not already specified
-        if 'counts_table' not in data:
+        if 'otu_table' not in data:
             try:
                 folder = data['folder']
                 folderpath = os.path.join(batch_data_dir, folder)
-                # 
+                datasets[dataset]['out_table'] = os.path.relpath(os.path.join(folderpath, ''))

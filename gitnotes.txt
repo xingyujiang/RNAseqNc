@@ -1,0 +1,6 @@
+# git更新到本地
+git remote -v
+git fetch origin master:temp
+git diff temp
+git merge temp
+git branch -d temp
