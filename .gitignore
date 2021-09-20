@@ -11,3 +11,14 @@
 *.xml
 *.iml
 *.idea
+*.txt
+*.yaml
+*.gz
+*.fa
+*.gtf
+*.idx
+*.ht2
+*.sizes
+*.fai
+*.partial
+*.aspera-ckpt
